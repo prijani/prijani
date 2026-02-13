@@ -15,4 +15,3 @@ Interests: quantitative finance, reinsurance risk, biostatistics, analytics
 - UGA Hacks Projects (engineering + rapid prototyping)
 
 LinkedIn: www.linkedin.com/in/priya-jani-stat 
-Resume: ...
