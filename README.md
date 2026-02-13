@@ -1,16 +1,18 @@
-## Hi there 👋
+# Priya Jani
 
-<!--
-**prijani/prijani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Statistics & Mathematics | Quantitative Analyst | Actuarial Data Science
 
-Here are some ideas to get you started:
+I build statistical models, risk analytics tools, and machine learning systems
+for finance, insurance, and healthcare applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills: Python, R, SQL, Excel, Power BI, scikit-learn, pandas, regression, ML, risk modeling
+
+Interests: quantitative finance, reinsurance risk, biostatistics, analytics
+
+## Featured Projects
+- Diabetes Risk Classification (ML healthcare modeling)
+- Investment AI Research (quant signals + backtesting)
+- UGA Hacks Projects (engineering + rapid prototyping)
+
+LinkedIn: www.linkedin.com/in/priya-jani-stat 
+Resume: ...
